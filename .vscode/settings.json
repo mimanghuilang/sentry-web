@@ -1,0 +1,11 @@
+{
+  // 标题栏样式设置，确保显示所有图标
+  "window.titleBarStyle": "custom",
+  
+  // 确保状态栏可见
+  "workbench.statusBar.visible": true,
+  
+  // 确保命令面板可访问
+  "workbench.commandPalette.experimental.suggestCommands": true
+}
+
